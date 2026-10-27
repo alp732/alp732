@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-hi
+Hello there i am Alp, nice to meet you!
+
+Thanks for checking out my profile!
+
+I love making games and playing them.
 <!--
 **alp732/alp732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
